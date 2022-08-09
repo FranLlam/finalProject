@@ -11,6 +11,7 @@ git clone https://github.com/FranLlam/finalProject.git
 Make sure that the directories are like that
 ![image](https://user-images.githubusercontent.com/110059119/183576537-8a40a242-3d82-4b41-a678-8ac0c73d4937.png)
 ![image](https://user-images.githubusercontent.com/110059119/183576622-436a7699-86fa-4e4d-9bdd-623cbdbd97ac.png)
+![image](https://user-images.githubusercontent.com/110059119/183579141-6b90ac46-138c-4b61-b715-81d3d5f6286b.png)
 
 
 
